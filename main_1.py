@@ -21,5 +21,15 @@ big_string = """"
 Вранці зустрічають…
 """""
 
+fullname = name + surname
+welcome_message = "Welcome, Mr. , fullname !"
 
-print(my_favourite_city)
+
+
+
+
+print(fullname)
+print(name)
+print(welcome_message)
+
+
