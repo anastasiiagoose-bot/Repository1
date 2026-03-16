@@ -17,7 +17,7 @@ print('Unikod Umbrella code is ',unikod_umbrella_code)
 unikod_umbrella_emoji = '☂'
 print('Unikod Umbrella emoji ', unikod_umbrella_emoji)
 
-eneid_poem = """"
+eneid_poem = """
 ЧАСТИНА ПЕРША
 
 1
@@ -43,7 +43,7 @@ eneid_poem = """"
 П’ятами з Трої накивав. 
 
 """""
-print(eneid_poem)
+print('Poem: ',eneid_poem)
 
 
 
