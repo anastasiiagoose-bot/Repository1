@@ -21,19 +21,3 @@ big_string = """"
 """""
 
 
-print(my_favourite_city)
-
-print(     ord(big_string)   )
-
-print (    ord("s")   )
-print (    ord("i")   )
-print (    ord(1031)   )
-
-unicode_cow = "🐄"
-print(ord(unicode_cow))
-unicode_cow = "🐄"
-
-print(unicode_cow)
-print(ord(unicode_cow))
-
-
