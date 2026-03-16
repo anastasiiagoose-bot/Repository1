@@ -3,7 +3,6 @@
 """big string"""
 
 
-
 name='Alex'
 surname='Clinton'
 # CATS ARE THE BEST THING EXISTING EVER!!
@@ -22,4 +21,3 @@ big_string = """"
 """""
 
 
-print(my_favourite_city)
