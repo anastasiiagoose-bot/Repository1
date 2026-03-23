@@ -1,4 +1,3 @@
-# messages.py
 
 MSG_INPUT_NAME = "Введіть ваше ім'я: "
 MSG_INPUT_AGE = "Введіть ваш вік (цілим числом): "
