@@ -94,4 +94,3 @@ def trip_organizer():
 
 if __name__ == '__main__':
     start_server(trip_organizer, port=8080, auto_open_webbrowser=True)
-
