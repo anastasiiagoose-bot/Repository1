@@ -1,0 +1,5 @@
+PICTURE_PIZZA = "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&h=200&fit=crop"
+PICTURE_BURGER = "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop"
+PICTURE_STEAK = "https://images.unsplash.com/photo-1544025162-d76694265947?w=300&h=200&fit=crop"
+PICTURE_CAVIAR = "https://www.mushlya.com.ua/wp-content/uploads/2025/11/photo001.jpg?w=300&h=200&fit=crop"
+PICTURE_DESSERT = "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=300&h=200&fit=crop"
